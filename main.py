@@ -17,6 +17,7 @@ elif(bmi < 40):
 else:
     print("Seriusly comma need some help. You, might, be, in, a, commmmmmmmma, soon. ")
 
+#NINJA NINJA
 
 
 
