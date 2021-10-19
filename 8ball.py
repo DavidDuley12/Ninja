@@ -51,7 +51,7 @@ def eight_ball_replies():
       print("Magic 8-Ball's answer: " + answer)
     else:
       answer = "Error"
-
+#Ninja
 eight_ball_replies()
 # print(answer)
 # print(name +" asks: "+ question)
