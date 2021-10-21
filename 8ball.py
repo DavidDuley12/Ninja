@@ -9,6 +9,7 @@ def intro_greeting():
     question = input("What is your question for the all-knowing 8-Ball? ")
     print(random_number)
 # answer = str("")
+# NINJA
 
 def eight_ball_replies():
     intro_greeting()
